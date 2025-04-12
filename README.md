@@ -46,7 +46,8 @@ for i in range(n):
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4fc30177-7899-491e-a255-244205c44753)
+
 
 
 ## Result:
